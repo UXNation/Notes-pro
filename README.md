@@ -1,5 +1,6 @@
 ![Frame 6](https://user-images.githubusercontent.com/93445494/154908765-acf8e1c1-080d-4a41-b63f-0b7656042609.png)
 [Live Demo](https://notespro.netlify.app)
+Caution - This app's non-responsive and was created to understand the functionalities of modern redux aka redux toolkit
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
